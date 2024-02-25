@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, sou Caio Douglas 👋
 
-<!--
-**Caiodrp/Caiodrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+🎓 Sou bacharel em Engenharia de Produção e atualmente estou no 5° período de Engenharia da Computação. 
 
-Here are some ideas to get you started:
+🔬 Completei uma especialização em Ciência de Dados e tenho uma grande paixão pela área de Inteligência Artificial, Robótica e Automações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Estou sempre buscando aprender e aplicar novas tecnologias na resolução de problemas complexos.
+
+## Minhas habilidades
+- Python 🐍
+- SQL 📊
+- JSON 🗂️
+
+## Entre em contato comigo
+- LinkedIn
