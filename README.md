@@ -9,7 +9,7 @@
 
 ## Liguagens
 - Python 🐍
-- Java
+- Java ☕
 - SQL 📊
 - JSON 🗂️
 
