@@ -14,4 +14,4 @@
 - JSON 🗂️
 
 ## Entre em contato comigo
-- LinkedIn
+- Linkedin : https://www.linkedin.com/in/caiodouglasrp/
