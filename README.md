@@ -7,8 +7,9 @@
 
 🚀 Estou sempre buscando aprender e aplicar novas tecnologias na resolução de problemas complexos.
 
-## Minhas habilidades
+## Liguagens
 - Python 🐍
+- Java
 - SQL 📊
 - JSON 🗂️
 
